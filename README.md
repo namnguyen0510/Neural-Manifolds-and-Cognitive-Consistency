@@ -7,6 +7,7 @@ The research introduces a novel mathematical framework combining neural populati
 
 
 # Todo
+```hash
 NeuralManifold-SpWR/
 │── README.md              # Overview of the project
 │── requirements.txt       # Dependencies required to run simulations
@@ -27,3 +28,4 @@ NeuralManifold-SpWR/
 │   │── IEEE_SPWRNeural.pdf  # Original research paper
 │── LICENSE                # License information
 │── .gitignore             # Files to ignore in version control
+```
