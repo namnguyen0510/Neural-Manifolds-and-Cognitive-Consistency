@@ -6,11 +6,11 @@ by Phuong-Nam Nguyen.
 The research introduces a novel mathematical framework combining neural population dynamics, hippocampal sharp wave-ripple (SpWR) generation, and cognitive consistency constraints inspired by Heider’s theory. It leverages low-dimensional manifold representations and balance energy functions to simulate memory consolidation and enhance interpretability in artificial neural networks.
 
 # Code usage
-## Simulating SpWR:
+## Simulating SpWR
 ```
 python q1.py
 ```
-## Create neural interpreter:
+## Create neural interpreter
 ```
 python main_rnn.py
 python main_lstm.py
